@@ -1,3 +1,5 @@
+#Robert Babaev
+
 import math
 
 outFile = open('code.txt', 'w')
